@@ -1,1 +1,1 @@
-alert('salut');
+alert('salut en js sur master');
